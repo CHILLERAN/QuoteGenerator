@@ -1,2 +1,2 @@
 # QuoteGenerator
-Shows a random quote, can give a word, and will show quote containing the word
+Shows a random quote everytime the page is refreshed, when sending a word with the request, it will list all quotes containing the word.
